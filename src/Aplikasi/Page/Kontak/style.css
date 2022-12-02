@@ -1,0 +1,11 @@
+span.chip {
+  font-size: 10px;
+  color: rgb(229, 229, 229);
+  padding: 6px;
+  border-radius: 3px;
+  background: rgb(85, 85, 85);
+}
+span.chip > a {
+  color: white;
+  font-weight: bold;
+}
